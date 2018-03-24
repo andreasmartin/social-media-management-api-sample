@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Stereotypes version="20090707">
+	<ApplicationStereotypes>
+		<Stereotype abstract="false" baseType="Class" documentation="" tweetCaseId="ZzXCIjqGAqDogAfQ" leaf="false" name="API" root="false"/>
+		<Stereotype abstract="false" baseType="Class" documentation="" tweetCaseId="g5FiIjqGAqDogAlC" leaf="false" name="Resource" root="false"/>
+		<Stereotype abstract="false" baseType="Operation" documentation="" tweetCaseId="ViBKIjqGAqDogAoK" leaf="false" name="GET" root="false"/>
+		<Stereotype abstract="false" baseType="Operation" documentation="" tweetCaseId="QoRKIjqGAqDogAoM" leaf="false" name="PUT" root="false"/>
+		<Stereotype abstract="false" baseType="Operation" documentation="" tweetCaseId="hXRKIjqGAqDogAoO" leaf="false" name="POST" root="false"/>
+		<Stereotype abstract="false" baseType="Operation" documentation="" tweetCaseId="bpxKIjqGAqDogAoQ" leaf="false" name="DELETE" root="false"/>
+		<Stereotype abstract="false" baseType="Class" documentation="" tweetCaseId="pw5VIjqGAqDogAtg" leaf="false" name="Body" root="false"/>
+		<Stereotype abstract="false" baseType="Dependency" documentation="" tweetCaseId="2u7tIjqGAqDogA2Y" leaf="false" name="Path" root="false"/>
+		<Stereotype abstract="false" baseType="Association" documentation="" tweetCaseId="uRbjIjqGAqDogA66" leaf="false" name="Request" root="false"/>
+		<Stereotype abstract="false" baseType="Association" documentation="" tweetCaseId="59njIjqGAqDogA68" leaf="false" name="Response" root="false"/>
+	</ApplicationStereotypes>
+</Stereotypes>
